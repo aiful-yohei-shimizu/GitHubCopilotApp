@@ -13,6 +13,7 @@
 		63C539092C7DBD2F00E688C7 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 63C539082C7DBD2F00E688C7 /* Base */; };
 		63C5390B2C7DBD3100E688C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63C5390A2C7DBD3100E688C7 /* Assets.xcassets */; };
 		63C5390E2C7DBD3100E688C7 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 63C5390D2C7DBD3100E688C7 /* Base */; };
+		63C5393A2C7EAB8A00E688C7 /* SubViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63C539392C7EAB8A00E688C7 /* SubViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		63C5390A2C7DBD3100E688C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63C5390D2C7DBD3100E688C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		63C5390F2C7DBD3100E688C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63C539392C7EAB8A00E688C7 /* SubViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				63C539032C7DBD2F00E688C7 /* SceneDelegate.swift */,
 				63C539052C7DBD2F00E688C7 /* ViewController.swift */,
 				63C539072C7DBD2F00E688C7 /* Main.storyboard */,
+				63C539392C7EAB8A00E688C7 /* SubViewController.swift */,
 				63C5390A2C7DBD3100E688C7 /* Assets.xcassets */,
 				63C5390C2C7DBD3100E688C7 /* LaunchScreen.storyboard */,
 				63C5390F2C7DBD3100E688C7 /* Info.plist */,
@@ -141,6 +144,7 @@
 				63C539062C7DBD2F00E688C7 /* ViewController.swift in Sources */,
 				63C539022C7DBD2F00E688C7 /* AppDelegate.swift in Sources */,
 				63C539042C7DBD2F00E688C7 /* SceneDelegate.swift in Sources */,
+				63C5393A2C7EAB8A00E688C7 /* SubViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
