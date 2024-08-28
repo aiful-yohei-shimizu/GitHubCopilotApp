@@ -29,6 +29,7 @@ class ViewController: UIViewController {
         if timer == nil {
             // タイマーを動かす
             timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(self.timerUpdate), userInfo: nil, repeats: true)
+            print("foo")
         }
     }
 
