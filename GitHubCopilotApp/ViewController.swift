@@ -69,6 +69,10 @@ class ViewController: UIViewController {
         timeLabel.text = "\(hour):\(minute):\(second)"
     }
 
+    // 無駄な関数を書く
+    func foo() {
+        let a = 134
+    }
 
 }
 
